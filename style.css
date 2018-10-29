@@ -1,5 +1,5 @@
 body{
 	
-	background-image: "a.jpeg";
+	background-image: url("a.jpeg");
 	 background-color: #cccccc;
 }
